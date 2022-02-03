@@ -1,32 +1,32 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hang Hua
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Rochester
+  url: https://www.rochester.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a second-year Ph.D. student in computer science at the University of Rochester advised by Prof. [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). My work lies in Computational Linguistics and Social Media, with a primary focus on the algorithmic and theoretical foundations for solving financial application scenario problems.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: University of Rochester
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
