@@ -6,7 +6,7 @@ title: Hang Hua
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,13 +27,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Rochester
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    #year: 2020
+  - course: Master in Software Engineering
+    institution: Peking Unniversity
+    #year: 2009
+  - course: Bachelor in Software Engineering
+    institution: South China University of Technology
+    #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
