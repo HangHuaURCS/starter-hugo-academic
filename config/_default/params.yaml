@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: hhua2 [at] cs [dot] rochester [dot] edu
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 3504 Wegmans Hall
+  city: Rochester
+  region: NY
+  postcode: 14627
   country: United States
   country_code: US
 coordinates:
